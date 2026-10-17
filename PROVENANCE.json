@@ -1,0 +1,30 @@
+{
+ "img/box.jpg": {
+  "tool": "higgsfield",
+  "prompt": "pastel blind box with an original fluffy monster peeking out (job 8770ff50)"
+ },
+ "img/nye.jpg": {
+  "tool": "higgsfield",
+  "prompt": "NYE festival main stage at midnight with confetti and fireworks (job a88ecc2b)"
+ },
+ "snd/shake.mp3": {
+  "tool": "elevenlabs",
+  "prompt": "shaking a cardboard blind box (flow om4JmConxZf0pnw2yOLR)"
+ },
+ "snd/open.mp3": {
+  "tool": "elevenlabs",
+  "prompt": "tearing open a toy box, sparkle reveal (flow om4JmConxZf0pnw2yOLR)"
+ },
+ "snd/boop.mp3": {
+  "tool": "elevenlabs",
+  "prompt": "tiny squeaky toy boop (flow om4JmConxZf0pnw2yOLR)"
+ },
+ "snd/cheer.mp3": {
+  "tool": "elevenlabs",
+  "prompt": "NYE festival crowd at midnight with confetti cannons (flow om4JmConxZf0pnw2yOLR)"
+ },
+ "snd/anthem.mp3": {
+  "tool": "elevenlabs",
+  "prompt": "euphoric progressive house NYE anthem (eleven_music_v2_5), crossfade loop baked (flow om4JmConxZf0pnw2yOLR)"
+ }
+}
